@@ -1,0 +1,18 @@
+.btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    height: 7vh;
+    width: 10vw;
+    background: black;
+    color: aliceblue;
+    opacity: 0.85;
+    cursor: pointer;
+    outline: none;
+    border: none;
+}
+
+.btn:hover{
+    opacity: 0.9;
+}

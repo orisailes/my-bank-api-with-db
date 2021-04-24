@@ -1,0 +1,7 @@
+.client-card{
+    display: inline-block;
+    text-align: center;
+    background: floralwhite;
+    border-radius: 10px;
+    margin: 0.5rem;
+}
